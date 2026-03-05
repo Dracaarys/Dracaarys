@@ -1,9 +1,9 @@
 ## Olá! Eu sou Gabriel 👋
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (6º período)
-- 💻 Desenvolvedor Java com Spring Boot
-- 🌐 Conhecimentos em HTML e CSS
-- 🚀 Explorando React e Angular
+- 💻 Desenvolvedor Python (Framework Django)
+- 🌐 Conhecimentos em HTML e CSS e Vue2 - Vue3
+- 🚀 Explorando React 
     
 <div align="center">
 <a href="https://github.com/Dracaarys">
